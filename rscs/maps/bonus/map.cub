@@ -1,0 +1,31 @@
+
+
+
+NO ./rscs/textures/wall/cobblestone.png
+
+
+            SO ./rscs/textures/wall/cobblestone.png
+
+WE ./rscs/textures/wall/grass.png
+      EA ./rscs/textures/wall/grass.png
+
+  F                         255,100,0
+  C                                                     255,0,0
+
+
+111111111111
+100000000001
+100000000001
+100000000001
+100000000001
+100000000001
+100002000001
+10000W000001
+100000000001
+100033300001
+100000000001
+100000000001
+100000000001
+100000000001
+100000000001
+111111111111
